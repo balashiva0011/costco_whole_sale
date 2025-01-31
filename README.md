@@ -25,19 +25,19 @@ The Costco Wholesale Dashboard is a data-driven analytical tool designed to prov
 
 - Analyze the impact of promotions and discounts on revenue.
 
-Customer Behavior
+## Customer Behavior
 
 Understand shopping patterns and preferences.
 
 Predict churn rates and optimize loyalty programs.
 
-Inventory Optimization
+## Inventory Optimization
 
 Reduce stockouts and overstock situations with predictive analytics.
 
 Improve supply chain efficiency by monitoring lead times and vendor reliability.
 
-Operational Performance
+## Operational Performance
 
 Compare store performance metrics across locations.
 
@@ -45,39 +45,30 @@ Enhance workforce efficiency through data-driven scheduling.
 
 Business Solutions
 
-1. Data-Driven Decision Making
+### 1. Data-Driven Decision Making
 
 Leverage AI and machine learning to enhance demand forecasting.
 
 Optimize pricing strategies based on competitor analysis and market trends.
 
-2. Customer-Centric Strategies
+### 2. Customer-Centric Strategies
 
 Personalize marketing campaigns using customer segmentation data.
 
 Enhance membership retention through loyalty rewards and targeted promotions.
 
-3. Supply Chain Optimization
+### 3. Supply Chain Optimization
 
 Implement real-time tracking and automated restocking.
 
 Improve vendor collaboration to ensure a smooth supply chain flow.
 
-4. Operational Excellence
+### 4. Operational Excellence
 
 Automate routine tasks to reduce human error and improve efficiency.
 
 Use dashboards to provide real-time performance insights to store managers.
 
-Technologies Used
-
-Data Visualization: Power BI / Tableau
-
-Database Management: SQL, Snowflake
-
-AI & Analytics: Python, Machine Learning models
-
-Cloud Solutions: AWS / Azure / Google Cloud
 
 ![Image](https://github.com/user-attachments/assets/41e42552-9359-42d2-ae01-6dccc4ccc7d7)
 
