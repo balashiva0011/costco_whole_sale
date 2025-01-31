@@ -1,4 +1,4 @@
-# costco_whole_sale
+# Costco_Whole_Sale
 ## Overview
 
 The Costco Wholesale Dashboard is a data-driven analytical tool designed to provide key insights into Costco's business performance. It helps stakeholders make informed decisions by visualizing critical metrics related to sales, inventory, customer trends, and operational efficiency.
