@@ -72,6 +72,8 @@ Use dashboards to provide real-time performance insights to store managers.
 
 ![Image](https://github.com/user-attachments/assets/41e42552-9359-42d2-ae01-6dccc4ccc7d7)
 
+![Image](https://github.com/user-attachments/assets/ecdc4a90-2ce6-4880-b909-be7f0a862d85)
+
 
 ### Conclusion
 
