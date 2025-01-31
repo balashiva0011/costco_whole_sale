@@ -72,7 +72,8 @@ Use dashboards to provide real-time performance insights to store managers.
 
 ![Image](https://github.com/user-attachments/assets/41e42552-9359-42d2-ae01-6dccc4ccc7d7)
 
-Conclusion
+
+### Conclusion
 
 The Costco Wholesale Dashboard serves as a vital tool for making data-driven decisions, improving operational efficiency, and enhancing customer satisfaction. By leveraging actionable insights, Costco can optimize business processes, increase profitability, and maintain its competitive edge in the retail industry.
 
